@@ -1,0 +1,11 @@
+[[constraint]]
+  name = "github.com/sirupsen/logrus"
+  version = "1.0.6"
+
+[[constraint]]
+  name = "github.com/xtgo/set"
+  version = "1.0.0"
+
+[prune]
+  go-tests = true
+  unused-packages = true
